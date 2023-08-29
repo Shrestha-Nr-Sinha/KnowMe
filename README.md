@@ -1,28 +1,28 @@
 # KnowMe : My Portfolio Website
  ### About 
-Greetings! I am <>Shrestha Narayan Sinha and this is my portfolio website.
+Greetings! I am Shrestha Narayan Sinha and this is my portfolio website.
 
-#### Features:
+### Features:
 1. Languages Used: HTML, CSS, JavaScript.
 2. Smooth and Responsive.
 3. Beautiful and unique UI.
 
 ### Have a look!
 
- # Screenshots:-
+ ## Screenshots:-
  
  ### Home Page<br />
- <img src="pages/home_page.png" width="900" height="700"><br />
+ <img src="pages/home_page.png" ><br />
  
  ### About Page<br />
- <img src="pages/about_page.png" width="1000" height="1000"><br />
+ <img src="pages/about_page.png" ><br />
 
  ### Projects Page<br />
- <img src="pages/projects_page" width="700" height="600"><br />
+ <img src="pages/projects_page.png" ><br />
  
  ### Skills Page<br />
- <img src="pages/skills_page.png" width="350" height="700"><br />
+ <img src="pages/skills_page.png" ><br />
 
  ### Contact Page<br />
- <img src="pages/contact_page.png" width="350" height="700"><br />
+ <img src="pages/contact_page.png" ><br />
  
