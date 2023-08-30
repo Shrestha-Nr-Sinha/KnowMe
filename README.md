@@ -4,8 +4,9 @@ Greetings! I am Shrestha Narayan Sinha and this is my portfolio website.
 
 ### Features:
 1. Languages Used: HTML, CSS, JavaScript.
-2. Smooth and Responsive.
-3. Beautiful and unique UI with different styles of animation.
+2. Implemented responsive design for seamless viewing across devices.
+3. Designed a captivating UI with a harmonious color palette and clear typography.
+4. Organized website into distinct sections with concise descriptions and high-quality images.
 
 ### Have a look!
 
